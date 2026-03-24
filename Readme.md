@@ -71,4 +71,12 @@ Your report should include:
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
 
+Tabulation:
+<img width="832" height="1433" alt="image" src="https://github.com/user-attachments/assets/ddd0cc7a-1e4f-4bf2-82c4-47cad6af4649" />
+output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62c1e268-823c-49d3-be5a-62041009fcd2" />
+
+Result
+thus the reciever sensitivity is obtained and calculated
+
 ---
