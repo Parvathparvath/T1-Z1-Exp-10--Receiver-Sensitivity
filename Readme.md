@@ -69,8 +69,10 @@ Your report should include:
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
-
+- Discussion of differences between analytical and simulation results.
+-  
+## BLOCK DIAGRAM 
+<img width="808" height="436" alt="image" src="https://github.com/user-attachments/assets/0f48de40-b3a6-40e1-9e7f-9f95b95d6ab5" />
 Tabulation
 
 <img width="832" height="1433" alt="image" src="https://github.com/user-attachments/assets/ddd0cc7a-1e4f-4bf2-82c4-47cad6af4649" />
